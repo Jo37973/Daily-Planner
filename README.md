@@ -1,3 +1,53 @@
+## Joanna Pastcan's Daily-Planner (Work Day Scheduler
+
+# Description 
+* As a Coding-Bootcamp student, I will apply my current coding knowledge of HTML, CSS, JavaScript, Bootstrap, jQuery, and responsive design to this assignment. I will also be resourceful to apply new knowledge by conducting research and trial and error to create a working, interactive, and responsive Daily Planner. This Daily Planner will allow a user to create a schedule with color-coded timeblocks for standard business hours, and events can be entered into individual timeblocks. These can then be saved to local storage for the user to be able to access.
+
+* This website will include HTML, CSS, and JavaScript with clean, polished, responsive, and functional code that I have written.
+
+
+# Acceptance Criteria
+
+## This is the acceptance criteria followed: 
+
+* GIVEN I am using a daily planner to create a schedule
+* WHEN I open the planner
+* THEN the current day is displayed at the top of the calendar
+* WHEN I scroll down
+* THEN I am presented with timeblocks for standard business hours
+* WHEN I view the timeblocks for that day
+* THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+* WHEN I click into a timeblock
+* THEN I can enter an event
+* WHEN I click the save button for that timeblock
+* THEN the text for that event is saved in local storage
+* WHEN I refresh the page
+* THEN the saved events persist
+
+
+# Installation 
+* To install this project, I have pushed and deployed it to GitHub.
+
+* GitHub Link: 
+
+* Website Link: 
+
+* Image of the Daily Planner:
+* 
+
+
+
+# Usage 
+* This site and code will be used for my Coding Bootcamp Homework 5 assignment.
+
+# Credits
+* Joanna Pastcan 2021
+* Coding Class README below: © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+* https://www.google.com as a resource to look up information
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
