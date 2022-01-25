@@ -1,7 +1,7 @@
 ## Joanna Pastcan's Daily-Planner (Work Day Scheduler
 
 # Description 
-* This is a Work Day Scheduler for 8am-5pm where the user can input event information in the time-block text area and save that to be used for that day.
+* This is a Work Day Scheduler for 8am-4pm where the user can input event information in the time-block text area and save that to be used for that day.
 
 * As a Coding-Bootcamp student, I will apply my current coding knowledge of HTML, CSS, JavaScript, Bootstrap, jQuery, and responsive design to this assignment. I will also be resourceful to apply new knowledge by conducting research and trial and error to create a working, interactive, and responsive Daily Planner. This Daily Planner will allow a user to create a schedule with color-coded timeblocks for standard business hours, and events can be entered into individual timeblocks. These can then be saved to local storage for the user to be able to access.
 
@@ -9,8 +9,6 @@
 
 
 # Acceptance Criteria
-
-## This is the acceptance criteria followed: 
 
 * GIVEN I am using a daily planner to create a schedule
 * WHEN I open the planner
@@ -27,10 +25,9 @@
 * THEN the saved events persist
 
 
-# Installation 
-* To install this project, I have pushed and deployed it to GitHub.
+# Links
 
-* GitHub Link: 
+* GitHub Link: https://github.com/Jo37973/Daily-Planner
 
 * Website Link: 
 
@@ -38,9 +35,8 @@
 * 
 
 
-
 # Usage 
-* This site and code will be used for my Coding Bootcamp Homework 5 assignment.
+* This site and code will be used for my UCI Coding Bootcamp Homework 5 assignment.
 
 # Credits
 * Joanna Pastcan 2021

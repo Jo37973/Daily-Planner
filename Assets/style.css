@@ -9,7 +9,7 @@ body {
   background-color: rgb(167, 236, 229);
   padding-bottom: 50px;
 }
-/* This is the styling for the jumbotron at the top of the page */
+/* Jumbotron styling at the top of the page */
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -46,41 +46,46 @@ textarea {
   white-space: pre-wrap;
 }
 
-/* This styles the time block areas*/
+/* Time block areas*/
 .time-block {
   text-align: center;
   border-radius: 15px;
   box-shadow: 0px 6px 6px black;
 }
 
-/* This is the styling for the rows*/
+/* Row styling*/
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid black;
 }
-/* This is the styling for the hour slot on the left*/
+
+/* Hour slot on the left*/
 .hour {
   background-color: #f3ea66;
   color: #000000;
   border-top: 1px solid white;
   border-radius: 5px;
 }
-/* This is the styling for the past hours of the day*/
+
+/* Past hours of the day*/
 .past {
   background-color: #d3d3d3;
   color: white;
 }
-/* This is the styling for the present/current hours of the day*/
+
+/* Present/current hours of the day*/
 .present {
   background-color: #eb847f;
   color: white;
 }
-/* This is the styling for the future/upcoming hours of the day*/
+
+/* Future/upcoming hours of the day*/
 .future {
   background-color: #57e67a;
   color: white;
 }
+
 /* Save button styling*/
 .saveBtn {
   border-left: 1px solid black;
@@ -89,7 +94,8 @@ textarea {
   background-color: rgb(175, 82, 175);
   color: white;
 }
-/* This is the styling for when a user hovers over the save button*/
+
+/* When a user hovers over the save button*/
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
