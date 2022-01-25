@@ -29,7 +29,7 @@
 
 * GitHub Link: https://github.com/Jo37973/Daily-Planner
 
-* Website Link: 
+* Website Link: https://jo37973.github.io/Daily-Planner/
 
 * Image of the Daily Planner:
 * ![Screenshot](https://user-images.githubusercontent.com/92402053/150920386-f6b7dab7-1dd7-4ab0-b8cc-c3b6b7013c24.png)
