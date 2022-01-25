@@ -1,10 +1,10 @@
-// This is showing the current date, displayed at the top
+// Display the current date at the top
 $("#currentDay").text(moment().format('dddd MMMM Do YYYY'));
 
-// Timeblock function - Colored time blocks with the number of hours
+// Colored time blocks with the number of hours
 function timeBlock() {
     var hour = moment().hours();
-//Time block loop
+
     $(".time-block").each(function() {
         //This checks for current, future, or past hours/times
         var currentHour = parseInt($(this).attr("id"));
@@ -25,11 +25,11 @@ var saveBtn = $(".saveBtn");
 saveBtn.on("click", function() {
     var time = $(this).siblings(".hour").text();
     var data = $(this).siblings(".data").val();
-// Save to local storage
+// Save input to local storage
     localStorage.setItem(time, data);
 });
 
-// Save event data to local storage, even when the page is refreshed
+// Save to local storage, even when the page is refreshed
 function saveInput() {
 
     $(".hour").each(function() {
